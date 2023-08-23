@@ -1,0 +1,19 @@
+div.intro {
+    padding-top: 20px; 
+    width: 100%;
+    text-align: center;
+    border-bottom: 0.5px solid #f2f2f2;
+   
+  }
+  div.intro h1{
+    color: #FF8300;
+    font-size: 40px;
+  }
+  
+  div.intro p{
+    font-weight: 400;
+    padding: 20px 0;  
+    width: 100%;
+    text-align: center;
+  }
+  

@@ -1,0 +1,19 @@
+/* font */
+@import url('https://fonts.googleapis.com/css2?family=Cookie&family=EB+Garamond:wght@400;600&family=Outfit:wght@100;200;400;500;600;800&display=swap');
+
+* {
+  margin: 0;
+  font-family: 'Outfit', sans-serif;
+  color: rgba(26, 26, 26, 0.788);
+}
+
+body {
+  background-color: #ff8400f9;
+}
+
+div.App {
+  max-width: 900px;
+  margin: auto;
+  background-color: white;
+  padding-bottom: 30px;
+}
